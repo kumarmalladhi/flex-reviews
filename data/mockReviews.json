@@ -1,0 +1,121 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 101,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.8,
+      "publicReview": "Clean place and easy check-in. Would come back.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "location",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2023-11-12 10:15:00",
+      "guestName": "Guest A",
+      "listingName": "Loft A - Central"
+    },
+    {
+      "id": 102,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3.9,
+      "publicReview": "Good location, but the Wi\u2011Fi dropped a few times.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "wifi",
+          "rating": 6
+        }
+      ],
+      "submittedAt": "2023-12-02 18:40:00",
+      "guestName": "Guest B",
+      "listingName": "Loft A - Central",
+      "channel": "airbnb"
+    },
+    {
+      "id": 103,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5.0,
+      "publicReview": "Exactly as described. Quiet at night.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-01-09 08:00:00",
+      "guestName": "Guest C",
+      "listingName": "Studio B - Riverside",
+      "channel": "booking"
+    },
+    {
+      "id": 104,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.3,
+      "publicReview": "Nice design, kitchen had what we needed. A bit warm in the afternoon.",
+      "reviewCategory": [
+        {
+          "category": "amenities",
+          "rating": 9
+        },
+        {
+          "category": "comfort",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-02-14 21:12:00",
+      "guestName": "Guest D",
+      "listingName": "1BR C - Park View",
+      "channel": "airbnb"
+    },
+    {
+      "id": 105,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2.8,
+      "publicReview": "Helpful host, but the place wasn\u2019t as clean as expected.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 4
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-03-03 09:23:00",
+      "guestName": "Guest E",
+      "listingName": "1BR C - Park View",
+      "channel": "booking"
+    }
+  ]
+}
