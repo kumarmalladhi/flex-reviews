@@ -1,6 +1,6 @@
 # Flex Reviews (Demo)
 
-A small Next.js app that exposes a reviews API and a dashboard for selecting which reviews to display on a property page.
+A small Next.js app that provides a reviews API and a simple dashboard to approve and manage which reviews are displayed for each property.
 
 ## Tech stack
 
@@ -68,5 +68,5 @@ Open http://localhost:3000
 
 ## AI tool disclosure
 
-- I used **ChatGPT (GPT-5 Thinking)** to help scaffold the project structure and write boilerplate. I reviewed and edited all code.
+- The initial project structure and boilerplate were generated using ChatGPT for speed. All logic, data, and deployment setup were manually reviewed and refined by me (Sam Malladi)
 
