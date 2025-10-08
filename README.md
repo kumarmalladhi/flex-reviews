@@ -70,3 +70,7 @@ Open http://localhost:3000
 
 - The initial project structure and boilerplate were generated using ChatGPT for speed. All logic, data, and deployment setup were manually reviewed and refined by me (Sam Malladi)
 
+## DEMO Screenshots
+
+https://github.com/kumarmalladhi/flex-reviews/tree/main/public
+
