@@ -17,7 +17,8 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Open http://localhost:3000
+Local Preview: http://localhost:3000  (for developers running locally)
+Live App: https://flex-reviews-sigma.vercel.app  (for reviewers / public access)
 
 ## Deployment (Vercel)
 
